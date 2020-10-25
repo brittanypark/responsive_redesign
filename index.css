@@ -64,3 +64,8 @@
 .hf-1 {
     font-size: 2em;
 }
+
+.prototyping {
+    height: auto;
+    width: 500px;
+}
