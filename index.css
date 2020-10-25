@@ -78,3 +78,8 @@
 .sg1 {
     font-size: 2em;
 }
+
+.styleguide {
+    height: auto;
+    width: 600px;
+}
