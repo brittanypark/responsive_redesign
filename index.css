@@ -69,3 +69,12 @@
     height: auto;
     width: 600px;
 }
+
+.style-guide {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sg1 {
+    font-size: 2em;
+}
